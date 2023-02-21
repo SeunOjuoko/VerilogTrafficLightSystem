@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at TrafficLights.v(16): Always Construct contains both blocking and non-blocking assignments
